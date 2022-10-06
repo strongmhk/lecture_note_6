@@ -1,1 +1,2 @@
-# lecture_note_6
+# Version control and Collaboration
+
